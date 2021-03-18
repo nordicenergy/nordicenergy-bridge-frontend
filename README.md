@@ -1,4 +1,4 @@
-# Nordic Energy ETH Bridge Frontend
+# Nordic Energy´s ETH Bridge Frontend
 
 #### Ethereum<>Nordic Energy two way bridge (development version)
 
